@@ -1,4 +1,4 @@
-package az.edu.turing.module1.lesson02.comparable.and.comparator;
+package az.edu.turing.module2.lesson02.comparable.and.comparator;
 
 public class Player implements Comparable<Player> {
     @Override

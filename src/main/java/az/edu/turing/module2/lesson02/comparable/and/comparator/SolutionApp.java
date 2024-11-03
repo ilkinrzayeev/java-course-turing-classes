@@ -1,6 +1,5 @@
-package az.edu.turing.module1.lesson02.comparable.and.comparator;
+package az.edu.turing.module2.lesson02.comparable.and.comparator;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
